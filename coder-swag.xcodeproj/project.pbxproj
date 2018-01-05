@@ -17,6 +17,7 @@
 		2BF7DD791FFEC84300928B70 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7DD781FFEC84300928B70 /* Service.swift */; };
 		2BF7DD7B1FFFCEE000928B70 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7DD7A1FFFCEE000928B70 /* ProductCell.swift */; };
 		2BF7DD7D1FFFE9A500928B70 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7DD7C1FFFE9A500928B70 /* Product.swift */; };
+		2BF7DD7F1FFFF45700928B70 /* ProductVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF7DD7E1FFFF45700928B70 /* ProductVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		2BF7DD781FFEC84300928B70 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
 		2BF7DD7A1FFFCEE000928B70 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		2BF7DD7C1FFFE9A500928B70 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		2BF7DD7E1FFFF45700928B70 /* ProductVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				2BF7DD5E1FFEA4F600928B70 /* CategoriesVC.swift */,
+				2BF7DD7E1FFFF45700928B70 /* ProductVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				2BF7DD5D1FFEA4F600928B70 /* AppDelegate.swift in Sources */,
 				2BF7DD791FFEC84300928B70 /* Service.swift in Sources */,
 				2BF7DD7B1FFFCEE000928B70 /* ProductCell.swift in Sources */,
+				2BF7DD7F1FFFF45700928B70 /* ProductVC.swift in Sources */,
 				2BF7DD741FFEC26C00928B70 /* CategoryCell.swift in Sources */,
 				2BF7DD761FFEC57400928B70 /* Category.swift in Sources */,
 				2BF7DD7D1FFFE9A500928B70 /* Product.swift in Sources */,
