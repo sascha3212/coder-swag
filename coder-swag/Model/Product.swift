@@ -14,6 +14,8 @@ struct Product {
     private(set) public var imageName: String
     
     init(title: String, price: String, imageName: String) {
-        <#statements#>
+        self.title = title
+        self.price = price
+        self.imageName = imageName
     }
 }
